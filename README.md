@@ -1,0 +1,2 @@
+# Music-Generation
+An exploration of using ML to create music similar to a grouping of input songs. A publicly available set of Final Fantasy VII soundtrack items were input and ran for 7 generations. The output was music, but due to minimal processing power available to me at the time, rather basic. Either way it was a fun project and the notebook is available to run (you'll have to swap out the .mid files for your own set), feel free to try it out and see what you can get out of it! 
